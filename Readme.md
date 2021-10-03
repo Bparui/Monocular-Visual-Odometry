@@ -25,8 +25,8 @@ Monocular Visual Odometry
 
 
 ## Algorithms Implemented 
-1. [2D-2D Correspondences using Feature Matching](https://github.com/Bparui/Monocular-Visual-Odometry/blob/main/2D%20-%202D/Feature%20Matching/2d2d_sift.py)
-3. [2D-2D Correspondences using Feature Tracking](https://github.com/Bparui/Monocular-Visual-Odometry/blob/main/2D%20-%202D/Feature%20Tracking/V0_optflow_2-2.py) 
+1. [2D-2D Correspondences using Feature Matching](https://github.com/Bparui/Monocular-Visual-Odometry/tree/main/2D%20-%202D/Feature%20Matching)
+3. [2D-2D Correspondences using Feature Tracking](https://github.com/Bparui/Monocular-Visual-Odometry/blob/main/2D%20-%202D/Feature%20Tracking) 
 4. 3D-2D Correspondences using Feature Tracking
 
 Primarily The KITTI Dataset has been used in this project . Along with the images the Ground truth has also been provided which has been used to verify the correctness of the plot. The dataset also Provides the Calibration Matrix which has directly been used.
